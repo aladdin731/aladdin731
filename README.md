@@ -9,10 +9,12 @@
 - 📫 How to reach me: aladdin731@hotmail.com, and here is my [portfolio website](https://lin-yuan.netlify.app/)
 
 <details>
-  <summary>[Github stats](https://github-readme-stats.vercel.app/api?username=aladdin731)</summary>
+  <summary>Github stats</summary>
+  (https://github-readme-stats.vercel.app/api?username=aladdin731)
 </details>
 
 
 <details>
-  <summary>[Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aladdin731&theme=vue)</summary>
+  <summary>Most Used Languages</summary>
+  (https://github-readme-stats.vercel.app/api/top-langs/?username=aladdin731&theme=vue)
 </details>
