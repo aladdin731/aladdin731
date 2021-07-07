@@ -8,3 +8,4 @@
 - 🌱 I’m currently learning Next.js, Strapi and Graphql.
 - 📫 How to reach me: aladdin731@hotmail.com, and here is my [portfolio website](https://lin-yuan.netlify.app/)
 
+![Lin's github stats](https://github-readme-stats.vercel.app/api?username=aladdin731)
