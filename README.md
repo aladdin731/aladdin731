@@ -10,11 +10,11 @@
 
 <details>
   <summary>Github stats</summary>
-  (https://github-readme-stats.vercel.app/api?username=aladdin731)
+  [![Lin's GitHub stats](https://github-readme-stats.vercel.app/api?username=aladdin731)](https://github.com/aladdin731/github-readme-stats)
 </details>
 
 
 <details>
   <summary>Most Used Languages</summary>
-  (https://github-readme-stats.vercel.app/api/top-langs/?username=aladdin731&theme=vue)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aladdin731)](https://github.com/aladdin731/github-readme-stats)
 </details>
