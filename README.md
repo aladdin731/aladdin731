@@ -16,5 +16,5 @@
 
 <details>
   <summary>Most Used Languages</summary>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aladdin731)](https://github.com/aladdin731/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aladdin731&layout=compact)](https://github.com/aladdin731/github-readme-stats)
 </details>
