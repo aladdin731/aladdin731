@@ -10,4 +10,4 @@
 
 ![Lin's github stats](https://github-readme-stats.vercel.app/api?username=aladdin731)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aladdin731&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aladdin731&theme=vue)
