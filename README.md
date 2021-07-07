@@ -9,3 +9,5 @@
 - 📫 How to reach me: aladdin731@hotmail.com, and here is my [portfolio website](https://lin-yuan.netlify.app/)
 
 ![Lin's github stats](https://github-readme-stats.vercel.app/api?username=aladdin731)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aladdin731&theme=tokyonight)
