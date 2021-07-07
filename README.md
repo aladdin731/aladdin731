@@ -10,7 +10,9 @@
 
 <details>
   <summary>Github stats</summary>
+  ```
   ![Lin's github stats](https://github-readme-stats.vercel.app/api?username=aladdin731)
+  ```
 </details>
 
 
